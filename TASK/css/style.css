@@ -1,0 +1,857 @@
+﻿/*umumi*/
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #953e46;
+}
+.fas {
+    margin-right: 5px;
+}
+.clear {
+    clear:both;
+}
+.navbar .container hr {
+    background-color: #e0af96;
+    color: #e0af96;
+    border: 0px;
+    height:2px
+}
+.clear{
+    clear:both;
+}
+
+
+
+#basa {
+  
+}
+.container {
+    width: 1080px;
+    margin: 0px auto;
+    
+    
+    
+}
+/*-----------------------------------------------------------------*/
+/*Header*/
+#basa .header .container .birinci {
+    font-size: 35px;
+    letter-spacing: 0.5px;
+    font-family: 'Roboto', sans-serif;
+    display:inline-block;
+    color:wheat;
+    line-height:12px;
+    float:left;
+}
+
+#basa .header .container input {
+    width: 410px;
+    height: 38px;
+    font-size: 12px;
+    border: 0px solid #953e46;
+    position: relative;
+    background-color: #f4e3cf;
+    
+    margin:25px 0px 25px 45px;
+}
+
+#basa .header .container a i {
+    position: absolute;
+    margin: 39px -28px;
+    color: #953e46;
+    font-size: 15px;
+}
+
+#basa .header .container button {
+    font-family: 'Roboto', sans-serif;
+    height: 40px;
+    width: 90px;
+    margin-left: 35px;
+    border: 0px solid #953e46;
+    background-color: #f4e3cf;
+    display: inline-block;
+    text-align: right;
+    position: relative;
+    font-size:15px;
+    margin-top:19px;
+    
+
+}
+.fas fa-user-circle{
+    opacity:0;
+}
+#basa .header .container .birincii {
+    border-radius: 5px;
+}
+#basa .header .container .birincii:hover{
+    background-color:black;
+    
+
+}
+    #basa .header .container .birincii b {
+        color: #bc786e;
+    }
+
+#basa .header .container .birincii:hover i{
+    color:wheat;
+}
+    #basa .header .container .birincii:hover b {
+        color: wheat;
+    }
+
+
+
+
+
+#basa .header .container .ikinci {
+    font-family: 'Roboto', sans-serif;
+    height: 40px;
+    width: 40px;
+    border: 0px solid #953e46;
+    background-color: #f4e3cf;
+    display: inline-block;
+    text-align: right;
+    position: relative;
+    font-size: 15px;
+    margin-top: 21px;
+    border-radius: 5px;
+}
+#basa .header .container .ikinci:hover i{
+    color:wheat;
+}
+#basa .header .container .ikinci:hover {
+    background-color:black;
+}
+  
+#basa .header .container .ikincii {
+    font-family: 'Roboto', sans-serif;
+    width: 50px;
+    color: #f4e3cf;
+    margin:25px 135px 0px 0px;
+    font-size:15px;
+    float:right;
+    position:relative;
+}
+#basa .header .container .icon {
+    margin: -70px 956px;
+    position: absolute;
+    background-color: #f4e3cf;
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    text-align: center;
+    
+}
+#basa .header .container .icon i {
+    font-size: 10px;
+    float: right;
+    margin: 2px 3px 0px 0px;
+}
+/*-----------------------------------------------------------------*/
+/*navbar */
+.navbar .container ul {
+    padding: 0;
+}
+    .navbar .container ul li  {
+        display: inline-block;
+        color: white;
+        font-size: 20px;
+        margin-right: 23px;
+        color: #e0af96;
+        font-family: 'Roboto', sans-serif;
+    }
+        .navbar .container ul li a {
+            color: #e0af96;
+            text-decoration:none;
+
+        }
+        .navbar .container ul li a:hover{
+            color:green;
+        }
+/*-----------------------------------------------------------------*/
+.video .container .h1 {
+    margin-right: 220px;
+    margin-bottom:10px;
+}
+.video .container h5, h1{
+    display:inline-block;
+   
+}
+.video .container .birinci {
+    width: 420px;
+    height: 300px;
+    position: relative;
+    float: left;
+    background-color: #f4e3cf;
+}
+
+.video .container  p {
+    display: inline-block;
+    position: absolute;
+    margin: 255px -408px;
+    font-size: 20px;
+}
+.video .container .rightup {
+    width: 206px;
+    height: 146px;
+    margin-left: 4px;
+    background-color: #f4e3cf;
+}
+.video .container .rightdown {
+    margin-top: 2px;
+    width: 206px;
+    height: 146px;
+    margin-left: 4px;
+    background-color: #f4e3cf;
+}
+.video .container .downleft {
+    width: 206px;
+    height: 146px;
+    margin-top: 2px;
+    float: left;
+    background-color: #f4e3cf;
+}
+.video .container .downright {
+    width: 206px;
+    height: 146px;
+    margin: 2px 0px 0px 4px;
+    float: left;
+    background-color: #f4e3cf;
+}
+
+.video .container .button {
+    width: 210px;
+    height: 152px;
+    margin: 2px 0px 0px 4px;
+    border: 3px solid #f4e3cf;
+    background-color: transparent;
+}
+
+.video .container .containerright .bir {
+    width: 100%;
+    height: 62px;
+    margin-bottom: 9px;
+    border: 1px solid transparent;
+    
+}
+.video .container .containerright .bir:hover {
+    border: 1px solid #f3e4cb;
+        
+
+}
+.video .container .containerright .bir:hover .iconhover1 {
+    opacity: 1;
+}
+.video .container .containerright .bir .iconhover1 {
+    float: right;
+    width: 20px;
+    height: 20px;
+    background-color: wheat;
+    border-radius: 0px 0px 0px 21px;
+    opacity:0;
+        /* display:none;*/
+}
+.video .container .containerright .bir .iconhover1 i {
+    float: right;
+    margin-right: 0px;
+}
+.video .container .containerright .iki {
+    width: 100%;
+    height: 62px;
+    margin-bottom: 9px;
+    border: 1px solid transparent;
+}
+    .video .container .containerright .iki:hover {
+        border: 1px solid wheat;
+    }
+.video .container .containerright .iki:hover .iconhover1 {
+    opacity: 1;
+}
+
+.video .container .containerright .iki .iconhover1 {
+    float: right;
+    width: 20px;
+    height: 20px;
+    background-color: wheat;
+    border-radius: 0px 0px 0px 21px;
+    opacity: 0;
+    /* display:none;*/
+}
+
+    .video .container .containerright .iki .iconhover1 i {
+        float: right;
+        margin-right: 0px;
+    }
+.video .container .containerright .uc {
+    width: 100%;
+    height: 62px;
+    margin-bottom: 9px;
+    border: 1px solid transparent;
+}
+.video .container .containerright .uc:hover {
+    border: 1px solid wheat;
+}
+.video .container .containerright .uc:hover .iconhover1 {
+    opacity: 1;
+}
+
+.video .container .containerright .uc .iconhover1 {
+    float: right;
+    width: 20px;
+    height: 20px;
+    background-color: wheat;
+    border-radius: 0px 0px 0px 21px;
+    opacity: 0;
+}
+
+    .video .container .containerright .uc .iconhover1 i {
+        float: right;
+        margin-right: 0px;
+    }
+.video .container .containerright .dort {
+    width: 100%;
+    height: 62px;
+    margin-bottom: 9px;
+    border: 1px solid transparent;
+}
+.video .container .containerright .dort:hover {
+    border: 1px solid wheat;
+}
+.video .container .containerright .dort:hover .iconhover1 {
+    opacity: 1;
+}
+
+    .video .container .containerright .dort .iconhover1 {
+        float: right;
+        width: 20px;
+        height: 20px;
+        background-color: wheat;
+        border-radius: 0px 0px 0px 21px;
+        opacity: 0;
+        /* display:none;*/
+    }
+
+        .video .container .containerright .dort .iconhover1 i {
+            float: right;
+            margin-right: 0px;
+        }
+.video .container .containerright .bes {
+    width: 100%;
+    height: 62px;
+    margin-bottom: 9px;
+    border: 1px solid transparent;
+}
+.video .container .containerright .bes:hover {
+    border: 1px solid wheat;
+}
+.video .container .containerright .bes:hover .iconhover1 {
+    opacity: 1;
+}
+
+.video .container .containerright .bes .iconhover1 {
+    float: right;
+    width: 20px;
+    height: 20px;
+    background-color: wheat;
+    border-radius: 0px 0px 0px 21px;
+    opacity: 0;
+}
+
+    .video .container .containerright .bes .iconhover1 i {
+        float: right;
+        margin-right: 0px;
+    }
+.video .container .containerright .alti {
+    width: 100%;
+    height: 62px;
+    margin-bottom: 9px;
+    border: 1px solid transparent;
+}
+.video .container .containerright .alti:hover {
+    border: 1px solid wheat;
+}
+.video .container .containerright .alti:hover .iconhover1 {
+    opacity: 1;
+}
+
+.video .container .containerright .alti .iconhover1 {
+    float: right;
+    width: 20px;
+    height: 20px;
+    background-color: wheat;
+    border-radius: 0px 0px 0px 21px;
+    opacity: 0;
+    /* display:none;*/
+}
+
+    .video .container .containerright .alti .iconhover1 i {
+        float: right;
+        margin-right: 0px;
+    }
+.video .container .containerleft .cevre {
+    width: 28px;
+    height: 28px;
+    border: 3px solid wheat;
+    float:left;
+    margin: 30px 27px;
+    border-radius:100%;
+}
+/*-----------------------------------------------------------------*/
+.people .container h5 {
+    display: inline-block;
+}
+.people .container .containerleft .birinci {
+    width: 420px;
+    height: 300px;
+    position: relative;
+    float: left;
+    background-color: #f4e3cf;
+}
+.people .container  p {
+    display: inline-block;
+    position: absolute;
+    margin: 255px -408px;
+    font-size:22px;
+}
+.people .container .containerleft .rightup {
+    width: 206px;
+    height: 146px;
+    margin-left: 4px;
+    background-color: #f4e3cf;
+}
+.people .container .containerleft .rightdown {
+    margin-top: 2px;
+    width: 206px;
+    height: 146px;
+    margin-left: 4px;
+    background-color: #f4e3cf;
+}
+.people .container .containerleft .downleft {
+    width: 206px;
+    height: 146px;
+    margin-top: 2px;
+    float: left;
+    background-color: #f4e3cf;
+}
+.people .container .containerleft .downright {
+    width: 206px;
+    height: 146px;
+    margin: 2px 0px 0px 4px;
+    float: left;
+    background-color: #f4e3cf;
+}
+.people .container .containerleft .button {
+    width: 210px;
+    height: 152px;
+    margin: 2px 0px 0px 4px;
+    border: 3px solid #f4e3cf;
+    background-color: transparent;
+}
+.people .container .containerleft .cevre {
+    width: 28px;
+    height: 28px;
+    border: 3px solid wheat;
+    float: left;
+    margin: 30px 27px;
+    border-radius: 100%;
+}
+.people .container .containerright {
+    width: 400px;
+    float: right;
+}
+.people .container .containerright .bir{
+   
+    float:left;
+    margin-bottom:11px;
+    
+}
+.people .container .containerright .bir input {
+    width: 192px;
+    height: 120px;
+        
+}
+.people .container .containerright .bir:hover .icon {
+    opacity:1;
+}
+    .people .container .containerright .bir .icon {
+        width: 0px;
+        height: 0px;
+        border-left: 25px solid transparent;
+        border-top: 25px solid #662436;
+        float: right;
+        margin: -126px 171px;
+        position: absolute;
+        opacity:0;
+    }
+.people .container .containerright .iki {
+    display: inline-block;
+    margin-left: 8px;
+    margin-bottom: 11px;
+}
+.people .container .containerright .iki input {
+    width: 192px;
+    height: 120px;
+}
+    .people .container .containerright .iki:hover .icon {
+        opacity: 1;
+    }
+
+    .people .container .containerright .iki .icon {
+        width: 0px;
+        height: 0px;
+        border-left: 25px solid transparent;
+        border-top: 25px solid #662436;
+        float: right;
+        margin: -126px 171px;
+        position: absolute;
+        opacity: 0;
+    }
+    .people .container .containerright .uc {
+        display: inline-block;
+        margin-bottom: 11px;
+    }
+        .people .container .containerright .uc input {
+            width: 192px;
+            height: 120px;
+        }
+    .people .container .containerright .uc:hover .icon {
+        opacity: 1;
+    }
+
+    .people .container .containerright .uc .icon {
+        width: 0px;
+        height: 0px;
+        border-left: 25px solid transparent;
+        border-top: 25px solid #662436;
+        float: right;
+        margin: -126px 171px;
+        position: absolute;
+        opacity: 0;
+    }
+    .people .container .containerright .dort {
+        display: inline-block;
+        margin-bottom: 11px;
+        margin-left: 4px;
+    }
+        .people .container .containerright .dort input {
+            width: 192px;
+            height: 120px;
+        }
+    .people .container .containerright .dort:hover .icon {
+        opacity: 1;
+    }
+
+    .people .container .containerright .dort .icon {
+        width: 0px;
+        height: 0px;
+        border-left: 25px solid transparent;
+        border-top: 25px solid #662436;
+        float: right;
+        margin: -126px 171px;
+        position: absolute;
+        opacity: 0;
+    }
+    .people .container .containerright .bes {
+        display: inline-block;
+        margin-bottom: 11px;
+    }
+        .people .container .containerright .bes input {
+            width: 192px;
+            height: 120px;
+        }
+    .people .container .containerright .bes:hover .icon {
+        opacity: 1;
+    }
+
+    .people .container .containerright .bes .icon {
+        width: 0px;
+        height: 0px;
+        border-left: 25px solid transparent;
+        border-top: 25px solid #662436;
+        float: right;
+        margin: -126px 171px;
+        position: absolute;
+        opacity: 0;
+    }
+    .people .container .containerright .alti {
+        display: inline-block;
+        margin-bottom: 11px;
+        margin-left: 4px;
+    }
+        .people .container .containerright .alti input {
+            width: 192px;
+            height: 120px;
+        }
+    .people .container .containerright .alti:hover .icon {
+        opacity: 1;
+    }
+
+    .people .container .containerright .alti .icon {
+        width: 0px;
+        height: 0px;
+        border-left: 25px solid transparent;
+        border-top: 25px solid #662436;
+        float: right;
+        margin: -126px 171px;
+        position: absolute;
+        opacity: 0;
+    }
+    .people .container .containerright .yeddi {
+        display: inline-block;
+        margin-bottom: 11px;
+    }
+        .people .container .containerright .yeddi input {
+            width: 192px;
+            height: 120px;
+        }
+    .people .container .containerright .yeddi:hover .icon {
+        opacity: 1;
+    }
+
+    .people .container .containerright .yeddi .icon {
+        width: 0px;
+        height: 0px;
+        border-left: 25px solid transparent;
+        border-top: 25px solid #662436;
+        float: right;
+        margin: -126px 171px;
+        position: absolute;
+        opacity: 0;
+    }
+    .people .container .containerright .sekkiz {
+        display: inline-block;
+        margin-bottom: 11px;
+        margin-left: 4px;
+    }
+        .people .container .containerright .sekkiz input {
+            width: 192px;
+            height: 120px;
+        }
+    .people .container .containerright .sekkiz:hover .icon {
+        opacity: 1;
+    }
+
+    .people .container .containerright .sekkiz .icon {
+        width: 0px;
+        height: 0px;
+        border-left: 25px solid transparent;
+        border-top: 25px solid #662436;
+        float: right;
+        margin: -126px 171px;
+        position: absolute;
+        opacity: 0;
+    }
+    .people .container .containerright .doqquz {
+        display: inline-block;
+        margin-bottom: 11px;
+    }
+        .people .container .containerright .doqquz input {
+            width: 192px;
+            height: 120px;
+        }
+    .people .container .containerright .doqquz:hover .icon {
+        opacity: 1;
+    }
+
+    .people .container .containerright .doqquz .icon {
+        width: 0px;
+        height: 0px;
+        border-left: 25px solid transparent;
+        border-top: 25px solid #662436;
+        float: right;
+        margin: -126px 171px;
+        position: absolute;
+        opacity: 0;
+    }
+    .people .container .containerright .on {
+        display: inline-block;
+        margin-bottom: 11px;
+        margin-left: 4px;
+    }
+        .people .container .containerright .on input {
+            width: 192px;
+            height: 120px;
+        }
+    .people .container .containerright .on:hover .icon {
+        opacity: 1;
+        
+    }
+
+    .people .container .containerright .on .icon {
+        width: 0px;
+        height: 0px;
+        border-left: 25px solid transparent;
+        border-top: 25px solid #662436;
+        float: right;
+        margin: -126px 171px;
+        position: absolute;
+        opacity: 0;
+    }
+.people .container .containerleft2 h5 {
+    display: inline-block;
+}
+
+.people .container .containerleft2 .birinci {
+    width: 420px;
+    height: 300px;
+    position: relative;
+    float: left;
+    background-color: #f4e3cf;
+}
+
+.people .container .containerleft2 p {
+    display: inline-block;
+    position: absolute;
+    margin: 255px -408px;
+}
+
+.people .container .containerleft2 .rightup {
+    width: 206px;
+    height: 146px;
+    margin-left: 4px;
+    background-color: #f4e3cf;
+}
+
+.people .container .containerleft2 .rightdown {
+    margin-top: 2px;
+    width: 206px;
+    height: 146px;
+    margin-left: 4px;
+    background-color: #f4e3cf;
+}
+
+.people .container .containerleft2 .downleft {
+    width: 206px;
+    height: 146px;
+    margin-top: 2px;
+    float: left;
+    background-color: #f4e3cf;
+}
+
+.people .container .containerleft2 .downright {
+    width: 206px;
+    height: 146px;
+    margin: 2px 0px 0px 4px;
+    float: left;
+    background-color: #f4e3cf;
+}
+
+.people .container .containerleft2 .button {
+    width: 210px;
+    height: 152px;
+    margin: 2px 0px 0px 4px;
+    border: 3px solid #f4e3cf;
+    background-color: transparent;
+}
+
+.people .container .containerleft2 .cevre {
+    width: 28px;
+    height: 28px;
+    border: 3px solid wheat;
+    float: left;
+    margin: 30px 27px;
+    border-radius: 100%;
+}
+.people .container .documents {
+    display:inline-block;
+}
+/*-----------------------------------------------------------------*/
+.son .container .hr1 {
+    margin-bottom: 14px;
+    margin-top: 90px;
+    background-color: wheat;
+    height: 2px;
+}
+.son .container .button1 {
+    width: 35px;
+    height: 40px;
+    background-color: #f6e0cd;
+    border: 0px;
+    margin-bottom:20px;
+    margin-right: 10px;
+    border-radius: 10%
+    
+}
+.son .container .button1:hover{
+    background-color:black;
+}
+.son .container .button1:hover i{
+    color:wheat;
+}
+.son .container .button2 {
+    width: 35px;
+    height: 40px;
+    background-color: #f6e0cd;
+    border: 0px;
+    margin-right: 10px;
+    border-radius:10%
+}
+.son .container .button2:hover {
+    background-color: black;
+}
+
+    .son .container .button2:hover i {
+        color: wheat;
+    }
+.son .container .button3 {
+    width: 35px;
+    height: 40px;
+    background-color: #f6e0cd;
+    border: 0px;
+    margin-right: 10px;
+    border-radius: 10%
+}
+.son .container .button3:hover {
+    background-color: black;
+}
+
+    .son .container .button3:hover i {
+        color: wheat;
+    }
+.son .container .birinci ul {
+    margin: 0px;
+    padding: 0px;
+}
+    .son .container .birinci ul li {
+        display: inline-block;
+        font-family: 'Roboto', sans-serif;
+        color: #ebcab6;
+        font-size: 13px;
+        margin-right: 10px;
+        margin-bottom: 20px;
+    }
+        .son .container .birinci ul li a {
+            color: #ebcab6;
+            font-size: 10px;
+            text-decoration:none;
+        }
+.son .container .birinci ul li a:hover{
+    color:black;
+    font-weight:bold;
+}
+.son .container .ikinci ul {
+    margin: 0px;
+    padding: 0px;
+}
+.son .container .ikinci ul li {
+   
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    color: #ebcab6;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+    .son .container .ikinci ul li a {
+        color: #ebcab6;
+        font-size: 10px;
+        text-decoration: none;
+    }
+.son .container .ikinci ul li a:hover{
+    color:black;
+}
+.son .container i {
+    color: #9f4a48;
+}
+
+
+
